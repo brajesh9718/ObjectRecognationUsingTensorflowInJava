@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Brajesh Pandey
+Build-Jdk: 14.0.2
+Class-Path: lib/tensorflow-1.1.0-rc2.jar lib/libtensorflow-1.1.0-rc2.jar
+  lib/libtensorflow_jni-1.1.0-rc2.jar
+Main-Class: com.emaraic.ObjectRecognition.Recognizer
+Created-By: Maven Integration for Eclipse
+
